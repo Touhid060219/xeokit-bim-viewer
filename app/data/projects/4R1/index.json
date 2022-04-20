@@ -1,0 +1,23 @@
+{
+  "id": "4r1",
+  "name": "4R1",
+  "models": [
+    {
+      "id": "design",
+      "name": "4R1"
+    }
+  ],
+  "viewerConfigs": {
+  },
+  "viewerContent": {
+    "modelsLoaded": [
+      "design"
+    ]
+  },
+  "viewerState": {
+    "tabOpen": "classes",
+    "expandObjectsTree": 1,
+    "expandClassesTree": 1,
+    "expandStoreysTree": 1
+  }
+}
